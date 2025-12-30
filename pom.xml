@@ -6,7 +6,7 @@
 
     <groupId>io.github.gabrielmmoraes1999</groupId>
     <artifactId>java-danfe</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>Java Danfe</name>
     <description>Biblioteca para emissão de Danfe.</description>
